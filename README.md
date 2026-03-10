@@ -12,7 +12,7 @@ Here is a list of the games I have built so far. Click the button below to read 
 [<kbd>Roll A Ball</kbd>](RollABall.md)
 
 ### Project 2
-[<kbd>Game Design Documentl</kbd>](GameDesignDocument.md)
+[<kbd>Game Design Document</kbd>](GameDesignDocument.md)
 
 ---
 ---
