@@ -11,6 +11,10 @@ Here is a list of the games I have built so far. Click the button below to read 
 ### Project 1
 [<kbd>Roll A Ball</kbd>](RollABall.md)
 
+### Project 2
+[<kbd>Game Design Documentl</kbd>](GameDesignDocument.md)
+
+---
 ---
 
 *More projects coming soon as I continue through the course!*
