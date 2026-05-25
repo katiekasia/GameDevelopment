@@ -14,7 +14,14 @@ Here is a list of the games I have built so far. Click the button below to read 
 ### Project 2
 [<kbd>Game Design Document</kbd>](GameDesignDocument.md)
 
----
----
+### Project 3
+[<kbd>Development Updates of the month</kbd>](RollABall.md)
 
-*More projects coming soon as I continue through the course!*
+### Project 4
+[<kbd>Development Updates</kbd>](GameDesignDocument.md)
+
+### Project 5
+[<kbd>Development Updates</kbd>](RollABall.md)
+
+### Project 6
+[<kbd>Final Project</kbd>](GameDesignDocument.md)
